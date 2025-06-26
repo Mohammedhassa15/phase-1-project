@@ -76,7 +76,7 @@ car-rental-app/
 - Background image with dark overlay for a modern look
 
 
-#AUTHOR:
+# AUTHOR:
 MOHAMMED HASSAN
 
 
