@@ -75,6 +75,10 @@ car-rental-app/
 
 - Background image with dark overlay for a modern look
 
+## You can view the website at this link:
+
+ https://mohammedhassa15.github.io/phase-1-project/
+
 
 # AUTHOR:
 MOHAMMED HASSAN
