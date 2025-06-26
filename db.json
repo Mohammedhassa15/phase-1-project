@@ -1,0 +1,109 @@
+{
+  "cars": [
+    {
+      "id": "7c75",
+      "brand": "BMW",
+      "model": "I8",
+      "pricePerDay": 65000,
+      "imageUrl": "https://images.unsplash.com/photo-1577796796409-d6ceea6f3359?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "available": true
+    },
+    {
+      "id": "0312",
+      "brand": "Lamborghini",
+      "model": "Urus",
+      "pricePerDay": 80000,
+      "imageUrl": "https://images.unsplash.com/photo-1619097763751-2881df85ed25?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "available": true
+    },
+    {
+      "id": "3526",
+      "brand": "Ferrari",
+      "model": "F240",
+      "pricePerDay": 90000,
+      "imageUrl": "https://images.unsplash.com/photo-1583121274602-3e2820c69888?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "available": false
+    },
+    {
+      "id": "b8d3",
+      "brand": "Pagani",
+      "model": "Imola",
+      "pricePerDay": 90000,
+      "imageUrl": "https://images.unsplash.com/photo-1597775738045-96695099c7b8?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "available": true
+    },
+    {
+      "id": "bf0d",
+      "brand": "Pagani",
+      "model": "Huayra",
+      "pricePerDay": 90000,
+      "imageUrl": "https://images.unsplash.com/photo-1635974067648-ff1a1bc9d5f6?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "available": true
+    },
+    {
+      "id": "f28c",
+      "brand": "Audi",
+      "model": "R8",
+      "pricePerDay": 70000,
+      "imageUrl": "https://images.unsplash.com/photo-1502161254066-6c74afbf07aa?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "available": true
+    },
+    {
+      "id": "3d99",
+      "brand": "Lamborghini",
+      "model": "Aventador SVJ",
+      "pricePerDay": 90000,
+      "imageUrl": "https://images.unsplash.com/photo-1633650915549-f69463863651?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "available": true
+    },
+    {
+      "id": "0534",
+      "brand": "Mclaren",
+      "model": "720S",
+      "pricePerDay": 80000,
+      "imageUrl": "https://images.unsplash.com/photo-1715372028767-f89c9818634a?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "available": true
+    },
+    {
+      "id": "5cd9",
+      "brand": "Ford",
+      "model": "F50",
+      "pricePerDay": 60000,
+      "imageUrl": "https://images.unsplash.com/photo-1605893477799-b99e3b8b93fe?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "available": true
+    },
+    {
+      "id": "8fbd",
+      "brand": "Dodge",
+      "model": "Challenger SRT",
+      "pricePerDay": 75000,
+      "imageUrl": "https://images.unsplash.com/photo-1689182441333-ba75c3327189?q=80&w=727&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "available": true
+    },
+    {
+      "id": "719e",
+      "brand": "Bugatti",
+      "model": "Veyron",
+      "pricePerDay": 120000,
+      "imageUrl": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "available": true
+    },
+    {
+      "id": "ae40",
+      "brand": "Bugatti",
+      "model": "Chiron ",
+      "pricePerDay": 130000,
+      "imageUrl": "https://images.unsplash.com/photo-1596809011210-34f77e175150?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "available": true
+    }
+  ],
+  "hires": [
+    {
+      "id": "0162",
+      "carId": "3526",
+      "name": "Mohammed Hassan",
+      "email": "mohammedhassan0041@gmail.com",
+      "location": "6th Street Moya Plaza"
+    }
+  ]
+}
