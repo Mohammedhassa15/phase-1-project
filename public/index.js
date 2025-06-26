@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000";
+const API_URL = "https://phase-1-ja49.onrender.com";
 // Get form and input elements from the page
 const carForm = document.getElementById("car-form");
 const carList = document.getElementById("car-list");
