@@ -1,5 +1,5 @@
 
-const API_URL = "https://phase-1-ja49.onrender.com";
+const API_URL = "https://car-rental-app-28pk.onrender.com";
 // Get form and input elements from the page
 const carForm = document.getElementById("car-form");
 const carList = document.getElementById("car-list");
