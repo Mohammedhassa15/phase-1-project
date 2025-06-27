@@ -1,0 +1,24 @@
+{
+  "name": "phase-1-project",
+  "version": "1.0.0",
+  "description": "A full-featured web application for managing car hire services. Users can add, edit, delete, view, hire, and unhire cars. The app includes filtering by brand and availability, form validation, and dynamic UI updates. Built using HTML, CSS, JavaScript, and a local JSON server API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohammedhassa15/phase-1-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Mohammedhassa15/phase-1-project/issues"
+  },
+  "homepage": "https://github.com/Mohammedhassa15/phase-1-project#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
